@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Ícones -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" />
+
+  <!-- fonts awesome -->
+  <link rel="stylesheet" href="../.esqueleto/fontawesome-free-5.15.3-web/css/all.min.css">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="../.esqueleto/css/bootstrap.min.css">
+
+  <!-- Normalize CSS -->
+  <link rel="stylesheet" href="../.esqueleto/css/normalize.css">
+
+  <!-- Folha de estilo da página-->
+  <link rel="stylesheet" href="./css/main.css">
+
+  <title>Titulo</title>
+</head>
+
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col d-flex justify-content-center">
+        <div class="calculadora">
+
+          <input id="calculo" type="text" class="form-control resultado" placeholder="" readonly>
+          <input id="visor" type="text" class="form-control resultado" placeholder="0" readonly>
+          
+          <div class="row justify-content-center mt-3">
+            <div onclick="calculadora('limpar')" class="col-6 btn btn-lg btn-dobro btn-dark m-1">C</div>
+            <div onclick="calculadora('dividir')" class="col-3 btn btn-lg btn-dark">/</div>
+            <div onclick="calculadora('multiplicar')" class="col-3 btn btn-lg btn-dark">X</div>
+          </div>
+          <div class="row justify-content-center">
+            <div onclick="calculadora('7')" class="col-3 btn btn-lg btn-dark">7</div>
+            <div onclick="calculadora('8')" class="col-3 btn btn-lg btn-dark">8</div>
+            <div onclick="calculadora('9')" class="col-3 btn btn-lg btn-dark">9</div>
+            <div onclick="calculadora('menos')" class="col-3 btn btn-lg btn-dark">-</div>
+          </div>
+          <div class="row justify-content-center">
+            <div onclick="calculadora('4')" class="col-3 btn btn-lg btn-dark">4</div>
+            <div onclick="calculadora('5')" class="col-3 btn btn-lg btn-dark">
+              <div class="row">
+                <div>5</div>
+                <div class="traço">_</div>
+              </div>
+            </div>
+            <div onclick="calculadora('6')" class="col-3 btn btn-lg btn-dark">6</div>
+            <div onclick="calculadora('mais')" class="col-3 btn btn-lg btn-dark">+</div>
+          </div>
+          <div class="row justify-content-center">
+            <div onclick="calculadora('1')" class="col-3 btn btn-lg btn-dark">1</div>
+            <div onclick="calculadora('2')" class="col-3 btn btn-lg btn-dark">2</div>
+            <div onclick="calculadora('3')" class="col-3 btn btn-lg btn-dark">3</div>
+            <div onclick="calculadora('resultado')" class="col-3 btn btn-lg btn-dark igual">=</div>
+          </div>
+          <div class="row" style="margin-top:-60px; margin-left:-3px;">
+            <div onclick="calculadora('0')" class="col-3 btn btn-lg btn-dobro btn-dark">0</div>
+            <div onclick="calculadora('ponto')" class="col-3 btn btn-lg btn-dark">.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, so Bootstrap JS -->
+  <script src="../.esqueleto/js/jquery-3.5.1.min.js"></script>
+  <script src="../.esqueleto/js/popper.js"></script>
+  <script src="../.esqueleto/js/bootstrap.min.js"></script>
+  <script src="./js/main.js"></script>
+</body>
+
+</html>
