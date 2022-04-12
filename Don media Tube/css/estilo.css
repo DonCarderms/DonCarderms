@@ -16,12 +16,9 @@ body{
 .cabecalho{
 	background: red;
    padding: 20px;
- 
-
-  
 }
 #menu{
-
+font-family: Verdana, Arial, Helvetica, sans-serif;
 min-width: 500px;
 margin-right:0px;
 }
@@ -44,28 +41,26 @@ list-style: none;
 }
 #menu ul li{
 	float: left;
-   padding: 10px;
-  
- 
-
+   padding: 5px;
 }
 #menu ul li a{
 	color: black;
 	text-decoration: none;
   background: white;
-  border-radius: 5px;
+  border-radius: 15px;
   padding: 10px;
   font-size: 1em;
+ margin: 0;
 	
 }
 #menu ul li a:hover{
-	background: #D3CCCC;
-	color: red;
-	border-radius: 5px;
-	font-size: 1.1em;
+	background: #eee;
+	color: black;
+	border-radius: 15px;
+	font-size: 1em;
 }
 .conteudo{
-	width: 900px;
+	width: 1350px;
 
 	padding: 10px;
 	margin: 0 auto;
@@ -86,9 +81,12 @@ height: 170px;
 background:red;
 
 }
+.titulo-video{
+	font-size: 0.9em;
+}
 .video{
 
-height: 400px;
+height: 248px;
 }
 #rodape h3{
 text-align: center;
