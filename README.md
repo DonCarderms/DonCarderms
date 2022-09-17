@@ -19,6 +19,7 @@
 <div align="center">  
 <a href="https://www.instagram.com/doncarderms/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
  <a href="https://www.linkedin.com/in/don-philocarderms-souffrant-3502b51b7/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+ ![Snake animation](https://github.com/katianne23/katianne23/blob/output/github-contribution-grid-snake.svg)
 </div>
   
 
