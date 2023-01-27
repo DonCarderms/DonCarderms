@@ -1,6 +1,7 @@
+<h1 align="center">Hi 👋, I'm don philcarderms souffrant</h1>
+<h3 align="left">Connect with me:</h3>
 
-
-### Main skills:
+### Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; 
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)
 ![Javascript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=Javascript&labelColor=0D1117)
@@ -46,4 +47,5 @@
 </div>
 
 
-
+<p align="left">
+</p>
