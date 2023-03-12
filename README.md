@@ -1,6 +1,19 @@
 <h1 align="center">Hi 👋, I'm don philcarderms souffrant</h1>
 <h3 align="left">Connect with me:</h3>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=doncarderms&label=Profile%20views&color=0e75b6&style=flat" alt="doncarderms" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doncarderms" alt="doncarderms" /></a> </p>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doncarderms&show_icons=true&locale=en&layout=compact" alt="doncarderms" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doncarderms&show_icons=true&locale=en" alt="doncarderms" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doncarderms&" alt="doncarderms" /></p>
+
 ### Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; 
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)
@@ -31,12 +44,6 @@
 
 ###
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=maurodesouza" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=maurodesouza" height="150" alt="languages graph"  />
-</div>
- -->
-![](./profile-3d-contrib/profile-night-green.svg)
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -52,6 +59,8 @@
 ![Snake animation](https://github.com/katianne23/katianne23/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+
 
 
 
