@@ -6,7 +6,12 @@
 ### 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=DonCarderms&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DonCarderms&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DonCarderms&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝Top Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DonCarderms&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5)
+
+### 🔝 Top Contributed Repo 
+![](https://github-contributor-stats.vercel.app/api?username=DonCarderms&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; 
@@ -17,8 +22,6 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![ReactJs](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
 
-### 🔝 Top Contributed Repo 
-![](https://github-contributor-stats.vercel.app/api?username=DonCarderms&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### Tools:
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
@@ -55,9 +58,3 @@
 ![Snake animation](https://github.com/katianne23/katianne23/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-
-
-
-
-
