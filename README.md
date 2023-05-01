@@ -6,11 +6,7 @@
 ### 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=DonCarderms&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DonCarderms&theme=tokyonight&hide_border=false)
-
-### 🔝Top Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DonCarderms&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5)
-
-### 🔝 Top Contributed Repo 
 ![](https://github-contributor-stats.vercel.app/api?username=DonCarderms&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### Languages:
@@ -22,27 +18,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![ReactJs](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
-
-
-### Tools:
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-
-
-### Other Knowledge:
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![ReactJs](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-###
 
 
   <div align="center">
