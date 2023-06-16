@@ -1,5 +1,31 @@
-<h1 align="center">Hi 👋, I'm don philcarderms souffrant</h1>
 
+**👋 Hey! I’m Doncarderms, a Full-Stack Developer from 🇧🇷**
+
+- I Like to build things using web technologies such as **HTML**, **CSS** and **JavaScript**
+- **Since 2022** daily studying content related to the **Python** world.
+
+### **What i know**
+
+- Languages
+  - JavaScript
+  - TypeScript
+  - Python
+
+- Back-end
+  - Django
+  - Django REST framework
+  - PostgresSql / Pgadmin
+
+- Front-end
+  - HTML
+  - CSS, Sass
+  - ReactJS
+  - NextJS
+
+<!---
+ppszm/ppszm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 ### Connect with me:
 [<img target='_blank' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/doncarderms/)
 
