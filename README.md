@@ -2,7 +2,6 @@
 **👋 Hey! I’m Doncarderms, a Full-Stack Developer**
 
 - I Like to build things using web technologies such as **HTML**, **CSS** and **JavaScript**
-- **Since 2022** daily studying content related to the **Python** world.
 
 ### **What i know**
 
