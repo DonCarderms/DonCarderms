@@ -26,7 +26,7 @@ ppszm/ppszm is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 ### Connect with me:
-[<img target='_blank' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/doncarderms/)
+[<img target='_blank' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/don-philocarderms-souffrant-10448139b)
 
 ### 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=DonCarderms&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
